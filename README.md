@@ -1,5 +1,6 @@
 # SQLAlchemy Dremio
 
+> **NOTE** This is a fork of https://github.com/narendrans/sqlalchemy_dremio. It add a Column type to handle raw json data in column origin
 
 ![PyPI](https://img.shields.io/pypi/v/sqlalchemy_dremio.svg)
 ![Build](https://github.com/narendrans/sqlalchemy_dremio/workflows/Build/badge.svg)
